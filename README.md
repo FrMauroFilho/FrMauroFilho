@@ -2,7 +2,7 @@
 
 - Sou ávido por conhecimento, tecnologia e Engenheiro Química de formação.  
 - Atualmente, estou em transição de carreira para me tornar um desenvolvedor e cientista de dados. 
-- Eu estou aprendendo <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> e <img src = "https://img.shields.io/badge/-sql-blue?style=flat&logo=sql&logoColor=blue">.
+- Eu estou aprendendo <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> e <img src = "https://img.shields.io/badge/-mysql-blue?style=flat&logo=mysql&logoColor=white">.
 - Eu quero aprender <img src = "https://img.shields.io/badge/-tableau-black?style=flat&logo=tableau&logoColor=orange">
 
 <div align="center">
@@ -16,6 +16,5 @@
   <img align="center" alt="Mauro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mauro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mauro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Mauro-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Mauro-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
-
